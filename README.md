@@ -4,77 +4,29 @@
 ### 😎 **Sobre mim**  
 Olá, sou o **blank**, Jovem programador apaixonado por tecnologia, sempre à procura de novos desafios e de soluções criativas para transformar ideias em código.
 
-
-
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
-Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
-</div>
-
+<!--🖼️RICK-->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
-
-
-
-
-
+<!--📏LINE-->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🚀 **Meus Projetos**  
-Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<br></br>
 
-<div >
-  <!-- Link Mente Maker -->
-  <a href="https://www.mentemaker.com.br/" target="_blank" style="font-size: 24px; font-weight: bold;">
-    🌏 Mente Maker
-  </a> <br>
-   <a href="https://github.com/Makerjunior/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🐍 Python Online
-    </a> <br>
-    <a href="https://github.com/Makerjunior/JavascriptOnline" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🧑‍💻 Javascript Online
-    </a> <br>
-    <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🎮 Jogo Snake
-    </a> <br>
-    <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🕹️ Tic-Tac-Toe
-    </a> <br>
+<b>FUN FACT EVERYDAY🤔 :</b>
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
-</div>
-
-
-<br><br>
-
-📝 **Gostou dos meus projetos?**  
-Entre em contato para mais informações ou se quiser colaborar! 🚀
+<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 
 ---
 
