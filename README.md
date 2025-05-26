@@ -1,45 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Junior!;🧑‍💻Sou+fundador+do+projeto+MENTE+MAKER🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+bem-vindos!;O+meu+nome+é+blank!;)](https://git.io/typing-svg)
 <p align="center">
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos e cursos que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e junte-se à nossa comunidade!
-
-<!--🐱CAT-->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/@MenteMaker?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
-  </a>
-</p>
-
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
-
-![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
+Olá, sou o **blank**, Jovem programador apaixonado por tecnologia, sempre à procura de novos desafios e de soluções criativas para transformar ideias em código.
 
 
-### 🌐 **Minhas Redes Sociais**  
-Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
-
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://www.youtube.com/@mentemaker/featured">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
-  </a>
-  <a href="https://www.instagram.com/p/CwEdLL4te3W/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==">
-    <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
-  </a>
-  <a href="https://replit.com/@MenteMaker">
-    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Ícone Replit" style="margin: 0 10px;">
-  </a>
-  <a href="https://discord.gg/maxJ3H3z">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
-  </a>
-  <a href="https://chat.whatsapp.com/FGkU80peYjMFubHPiNScSm">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone WhatsApp" style="margin: 0 10px;">
-  </a>
-</div>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
