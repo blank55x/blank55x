@@ -26,18 +26,17 @@ Olá, sou o **blank**, Jovem programador apaixonado por tecnologia, sempre à pr
 <i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-
 ---
 
 ### 🌱 **Vamos Juntos!**  
 Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
 
-[Mente Maker](https://www.youtube.com/@mentemaker)
+[blank instagram](https://www.instagram.com/tomas_brandao_/)
+[blank X](https://x.com/tomas_brandao)
 
 ---
 
-### 📊 
+### 
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source
     media="(prefers-color-scheme: dark)"
@@ -56,3 +55,7 @@ Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Junt
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+
+<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
