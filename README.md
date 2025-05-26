@@ -31,8 +31,20 @@ Olá, sou o **blank**, Jovem programador apaixonado por tecnologia, sempre à pr
 ### 🌱 **Vamos Juntos!**  
 Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
 
-[blank instagram](https://www.instagram.com/tomas_brandao_/)
-[blank X](https://x.com/tomas_brandao)
+### 🌐 **As minhas Redes Sociais**  
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+
+  <a href="https://www.instagram.com/tomas_brandao_/">
+    <img src="https://img.shields.io/badge/Instagram-F24D65?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone Instagram" style="margin: 0 10px;">
+  </a>
+  <a href="https://discord.gg/HtbFUdMF">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
+  </a>
+   <a href="https://x.com/tomas_brandao_">
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=white" alt="Ícone Discord" style="margin: 0 10px;">
+  </a>
+</div>
 
 ---
 
